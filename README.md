@@ -16,7 +16,7 @@ The raw data (samplesuperstore) contains order-level retail transaction records 
 
 Power Query Editor showing the applied steps and cleaned output:
 
-<img width="1365" height="717" alt="Screenshot 2026-09-02 092931" src="https://github.com/user-attachments/assets/bcdec810-b9ae-4744-bba0-35a3d79d8f90" />
+<img width="1365" height="716" alt="Screenshot 2026-09-02 135626" src="https://github.com/user-attachments/assets/a47e9110-ba30-4dd0-9dc3-a14d0a287bfa" />
 
 
 ## 🔧 Transformations Applied (Power Query Steps)
